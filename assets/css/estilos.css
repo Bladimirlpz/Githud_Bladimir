@@ -64,3 +64,9 @@ header h1 img {
 header .botones{
   margin-right: 30px;
 }
+/* modificaciones seccion Clientes */
+#clientes .row img{
+  
+  height: 100px;
+  width: 100px;
+}
