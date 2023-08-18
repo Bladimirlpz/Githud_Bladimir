@@ -37,3 +37,14 @@ body {
   }
 
 }
+/* Modificaciones para desafio 5 git and github */
+nav {
+  
+}
+nav a img{
+  width: 220px;
+}
+nav li {
+  color: #75c7fb;
+  font-size: large;
+}
