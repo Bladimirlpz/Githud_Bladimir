@@ -5,10 +5,13 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url(../img/imagen\ header.png)/* url("../img/bg-hero.jpg") */ ;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  height: 650px;
+  
+  
 }
 
 /* Mis trabajos */
@@ -38,6 +41,7 @@ body {
 
 }
 /* Modificaciones para desafio 5 git and github */
+/* Modoficaciones Nav bar */
 nav {
   
 }
@@ -47,4 +51,16 @@ nav a img{
 nav li {
   color: #75c7fb;
   font-size: large;
+}
+/* modificaciones Hero section */
+header {
+  color:#75c7fb ;
+  
+}
+header h1 img {
+  height: 150px;
+
+}
+header .botones{
+  margin-right: 30px;
 }
