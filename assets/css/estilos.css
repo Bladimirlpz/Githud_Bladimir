@@ -17,7 +17,7 @@ body {
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 100px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -70,3 +70,4 @@ header .botones{
   height: 100px;
   width: 100px;
 }
+/* modificaciones seccion Mis-trabajos */
